@@ -1,0 +1,807 @@
+# Webalizer V2.23-08 Incremental Data - 06/22/2022 05:48:33
+2022 6 22 5 48 33
+22509 20344 129 52 46 49 2654411523 7244 192 0 0 0
+4 439 1499 1 22
+39 20 972238 13 20 11 0 0
+44 21 562905 12 21 13 0 0
+2745 2388 309293728 10 1538 15 0 0
+96 69 2768613 12 70 11 0 0
+46 28 2119562 16 26 17 0 0
+45 28 1318336 10 23 10 0 0
+43 24 1241613 9 25 11 0 0
+33 16 408806 6 17 11 0 0
+49 37 1447557 18 28 15 0 0
+2521 2111 309027857 11 1298 14 0 0
+979 853 135109540 3 449 4 0 0
+26 24 1564704 4 22 4 0 0
+1 1 62578 1 1 1 0 0
+1 1 62581 1 1 1 0 0
+7 3 586351 2 4 2 0 0
+2 0 812 1 1 1 0 0
+6124 5425 786097346 9 2301 18 0 0
+3823 3749 375950045 5 159 7 0 0
+40 39 5035037 5 13 7 0 0
+1036 1011 159264764 5 35 8 0 0
+2768 2614 354092366 5 526 6 0 0
+2041 1882 207424184 4 666 7 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1764 1642 154584724 444 0 0
+1035 926 88132146 278 0 0
+2133 2081 235119573 184 0 0
+1594 1572 241856046 77 0 0
+723 660 81712718 265 0 0
+663 614 65603920 166 0 0
+479 428 54683542 205 0 0
+643 560 76714515 299 0 0
+1079 931 137603949 533 0 0
+330 290 46930088 140 0 0
+430 356 48781650 256 0 0
+706 607 96915765 302 0 0
+253 201 27896779 149 0 0
+868 748 123751974 347 0 0
+456 394 66544886 202 0 0
+11 8 928378 7 0 0
+24 11 417650 10 0 0
+191 164 24606689 82 0 0
+1545 1451 221798723 340 0 0
+2401 2204 305094856 706 0 0
+1479 1203 166144715 803 0 0
+557 463 64485734 303 0 0
+1588 1372 180204494 763 0 0
+1557 1458 143898009 383 0 0
+2
+0
+0
+20344
+0
+0
+0
+0
+0
+0
+0
+1
+618
+0
+91
+0
+0
+0
+0
+0
+0
+1397
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+56
+0
+0
+0
+0
+0
+# -urls- 
+/archivos/ventas/1655874075_Webp.net-resizeimage (2).png
+1 43 21 457235 0 0 0 0
+/css/app.css
+0 1496 0 34660443 0 0 0 0
+/js/resources_js_Pages_Adm_Usuarios_vue.js
+0 2 0 186032 0 0 0 0
+/archivos/ventas/1655840056_XD.png
+1 55 0 785563 0 0 0 0
+/archivos/tareas/1655496991_DCOLRegistroNotas.png
+1 1320 0 52531151 0 0 0 0
+/admin/categorias
+0 552 0 8992685 1 1 0 0
+/js/258.js
+0 3 0 4527 0 0 0 0
+/js/resources_js_Pages_Adm_Categorias_vue.js
+0 8 0 876004 0 0 0 0
+/.well-known/acme-challenge/aldvbjdno2aNKMFm1XX50_F4ow48eupIrgsPMTpDaWU
+0 4 0 1174 0 0 0 0
+/archivos/ventas/1655516740_olla2.png
+1 598 0 249646027 0 0 0 0
+/js/resources_js_Pages_Login_vue.js
+0 4 0 11940 0 0 0 0
+/js/resources_js_Pages_Home_vue.js
+0 232 0 8285845 0 0 0 0
+/_ignition/health-check
+0 9 0 2547 0 0 0 0
+/favicon.ico
+0 1593 0 530655 0 0 0 0
+/archivos/ventas/1655876268_XD.png
+1 28 7516623365672551200 371420 0 0 0 0
+/js/app.js
+0 1580 0 742815073 0 0 0 0
+/archivos/ventas/1655506855_caja.png
+1 1364 0 125262900 0 0 0 0
+/js/517.js
+0 2 0 151590 0 0 0 0
+/images/vendor/primevue/resources/color.png
+1 2 0 31658 0 0 0 0
+/archivos/ventas/1655876268_Webp.net-resizeimage (2).png
+1 27 2318311803199179560 288895 0 0 0 0
+/archivos/ventas/1655840090_VanadisOK.png
+1 56 0 6531233 0 0 0 0
+/.well-known/acme-challenge/20dXKzbI0RGdfLZz12dJLZyxdAELtO-isVp5SX-8bD0
+0 4 0 1176 0 0 0 0
+/archivos/tareas/1655496991_DCOLConsultaTareas.png
+1 1487 0 53364319 0 0 0 0
+/js/resources_js_Pages_CrearVenta_vue.js
+0 76 0 8523653 0 0 0 0
+/archivos/ventas/1655514883_Talking-Trash.jpg
+1 115 0 37976476 0 0 0 0
+/login
+0 42 0 96600 1 1 0 0
+/archivos/ventas/1655838980_Categoriass-removebg-preview.png
+1 71 0 1081089 0 0 0 0
+/js/184.js
+0 4 0 73204 0 0 0 0
+/archivos/ventas/1655506855_carrito.png
+1 1252 0 43551702 0 0 0 0
+/archivos/ventas/1655839771_VanadisOK.png
+1 62 0 7462934 0 0 0 0
+/logout
+0 10 0 38520 0 0 0 0
+/_debugbar/assets/javascript
+0 1401 0 515418991 6 6 0 0
+/fonts/vendor/primeicons/primeicons.ttf
+0 1269 0 84687873 0 0 0 0
+/admin/usuarios
+0 543 0 5786066 6 0 0 0
+/archivos/ventas/1655513593_1934-100-Star-Note.webp
+0 121 0 15198433 0 0 0 0
+/_debugbar/open
+0 890 0 27274599 0 19 0 0
+/images/vendor/primevue/resources/hue.png
+1 2 0 11484 0 0 0 0
+/js/resources_js_Pages_Adm_CiudadesRolesYMarcas_vue.js
+0 2 0 179886 0 0 0 0
+/archivos/ventas/1655516740_olla3.png
+1 691 0 239536284 0 0 0 0
+/archivos/ventas/1655840014_Vanadis.png
+1 53 0 6668672 0 0 0 0
+/archivos/ventas/1655839886_Vanadis.png
+1 61 0 7833702 0 0 0 0
+/_debugbar/assets/stylesheets
+0 1407 0 181496426 2 4 0 0
+/
+0 697 0 15095916 169 34 0 0
+/crear_venta
+0 501 0 9621416 5 2 0 0
+/js/293.js
+0 3 0 217017 0 0 0 0
+/archivos/ventas/1655876268_Categoriass-removebg-preview.png
+1 46 0 730210 0 0 0 0
+/robots.txt
+0 3 0 11498 0 0 0 0
+/archivos/ventas/1655839071_VanadisOK.png
+1 69 0 8489990 0 0 0 0
+/js/681.js
+0 1 0 67794 0 0 0 0
+/archivos/ventas/1655514343_Intel-Core-i7-Extreme-Edition.webp
+0 130 0 5059765 0 0 0 0
+/archivos/ventas/1655839969_VanadisOK.png
+1 55 0 6525354 0 0 0 0
+/admin/ciudades
+0 389 0 4273844 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+54.212.100.56
+0 4 2 46033 1 1654215114 0 0
+/
+18.217.126.148
+0 4 2 46029 1 1654215114 0 0
+/
+148.153.98.52
+0 7 2 106812 1 1655701552 0 0
+-
+18.192.103.242
+0 2 2 586 0 0 0 0
+-
+35.89.159.235
+0 3 1 23499 1 1654309726 0 0
+/
+205.210.31.158
+0 2 1 63390 1 1655038471 0 0
+/
+51.254.49.108
+0 1 1 63016 1 1654855006 0 0
+/
+110.177.180.106
+0 1 1 5462 0 0 0 0
+-
+3.71.77.91
+0 4 2 46151 2 1654754389 0 0
+/
+176.53.223.66
+0 2 2 22939 1 1654894745 0 0
+/
+95.211.187.223
+0 5 5 112423 1 1654796102 0 0
+/
+3.139.88.242
+0 4 2 46142 1 1654497199 0 0
+/
+133.242.140.127
+0 2 2 45381 1 1654802883 0 0
+/
+152.39.239.250
+0 1 0 433 1 1654455384 0 0
+/
+205.210.31.142
+0 1 1 90165 1 1655618490 0 0
+/
+34.221.51.85
+0 7 3 69663 2 1654434330 0 0
+/
+34.213.50.4
+0 2 2 588 0 0 0 0
+-
+206.204.18.92
+0 4 4 434978 1 1654455191 0 0
+/_debugbar/assets/stylesheets
+167.248.133.117
+0 3 2 45257 1 1654085001 0 0
+/
+64.246.178.34
+0 2 0 812 1 1655418366 0 0
+/
+124.223.197.157
+0 1 1 22493 1 1654078647 0 0
+/
+37.19.211.28
+0 3 2 45621 1 1654825045 0 0
+/
+198.235.24.26
+0 1 1 61912 1 1654493533 0 0
+/
+18.219.41.181
+0 4 2 46041 1 1654132826 0 0
+/
+8.210.232.36
+0 8 3 165590 1 1654186000 0 0
+/
+51.255.62.2
+0 1 0 396 1 1654849871 0 0
+/
+205.210.31.30
+0 1 1 62578 1 1655090676 0 0
+/
+116.53.199.182
+0 1 1 5462 0 0 0 0
+-
+162.142.125.213
+0 3 2 45402 1 1654635358 0 0
+/
+13.58.88.81
+0 2 2 588 0 0 0 0
+-
+198.235.24.11
+0 1 0 377 1 1654694177 0 0
+/
+3.14.246.13
+0 4 2 46134 1 1654358783 0 0
+/
+143.137.113.5
+0 6 5 1104304 1 1655451136 0 0
+/_debugbar/assets/stylesheets
+52.15.224.123
+0 4 2 46042 1 1654067467 0 0
+/
+133.242.174.119
+0 2 2 45365 1 1654802896 0 0
+/
+51.254.49.111
+0 1 1 63668 1 1655003099 0 0
+/
+161.129.164.140
+0 2 2 376573 1 1654455400 0 0
+/_debugbar/assets/javascript
+182.138.158.126
+0 1 1 5462 0 0 0 0
+-
+52.59.222.118
+0 2 0 828 0 0 0 0
+-
+51.81.167.146
+0 4 2 126677 2 1654945783 0 0
+/
+66.133.109.36
+0 24 12 276724 7 1654754389 0 0
+/
+176.107.176.83
+0 2 0 71636 0 0 0 0
+-
+3.143.227.6
+0 4 2 46155 1 1654574556 0 0
+/
+111.7.100.24
+0 3 1 23720 1 1654132847 0 0
+/
+18.222.190.87
+0 4 2 46147 1 1654414176 0 0
+/
+18.236.62.254
+0 4 2 46137 2 1654754389 0 0
+/
+205.210.31.12
+0 1 1 90133 1 1655583695 0 0
+/
+18.192.104.60
+0 3 1 23432 1 1654132826 0 0
+/
+34.140.219.57
+0 1 1 22656 1 1654802237 0 0
+/
+198.240.78.92
+0 1 1 372312 1 1654455192 0 0
+/_debugbar/assets/javascript
+3.144.99.123
+0 4 2 46146 1 1654309726 0 0
+/
+35.163.205.133
+0 4 2 46030 2 1654204714 0 0
+/
+205.210.31.19
+0 1 0 377 1 1655307341 0 0
+/
+34.219.216.151
+0 4 2 46157 1 1654574556 0 0
+/
+54.187.239.46
+0 5 1 24260 1 1654121892 0 0
+/
+18.185.80.65
+0 8 4 92299 2 1654696767 0 0
+/
+198.235.24.134
+0 1 1 90134 1 1655592893 0 0
+/
+186.121.247.154
+0 1496 1419 88699906 5 1655516744 0 0
+/
+52.59.192.186
+0 4 2 46039 1 1654204715 0 0
+/
+3.19.242.244
+0 4 2 46161 1 1654754389 0 0
+/
+179.59.140.89
+0 38 34 2941072 1 1655451180 0 0
+/admin/usuarios
+52.41.90.236
+0 3 1 23480 1 1654497200 0 0
+/
+188.165.87.103
+0 1 1 63023 1 1654854478 0 0
+/
+3.70.187.18
+0 2 1 23009 1 1654215114 0 0
+/
+3.122.229.249
+0 4 2 46151 1 1654414177 0 0
+/
+174.138.51.230
+0 1 1 62559 1 1654454645 0 0
+/
+54.245.4.224
+0 4 2 46139 1 1654605221 0 0
+/
+205.210.31.134
+0 1 0 377 1 1654251993 0 0
+/
+198.235.24.16
+0 1 1 90137 1 1655597180 0 0
+/
+18.193.128.235
+0 4 0 1656 0 0 0 0
+-
+190.129.180.75
+0 54 40 4749206 3 1655876576 0 0
+/
+18.159.135.4
+0 4 2 46137 1 1654358783 0 0
+/
+119.12.186.18
+0 1 1 22895 1 1654455387 0 0
+/
+82.145.215.206
+0 6 4 239804 4 1655860318 0 0
+/
+64.225.21.8
+0 1 1 62595 1 1654450684 0 0
+/
+123.145.32.2
+0 1 1 22674 1 1654358259 0 0
+/
+51.255.62.7
+0 1 1 63662 1 1654996226 0 0
+/
+3.127.85.56
+0 2 1 23024 1 1654215114 0 0
+/
+198.235.24.155
+0 2 1 90972 1 1655727960 0 0
+/
+198.235.24.12
+0 1 1 62581 1 1655229063 0 0
+/
+181.188.164.146
+0 64 58 5092801 2 1655841002 0 0
+/_debugbar/open
+54.227.176.176
+0 2 1 22524 1 1654323216 0 0
+/
+3.145.92.91
+0 8 4 92292 2 1654696766 0 0
+/
+3.64.250.53
+0 4 2 11052 1 1654434330 0 0
+/
+18.237.144.112
+0 3 1 23428 1 1654132826 0 0
+/
+44.227.127.2
+0 22 21 2708822 1 1655845076 0 0
+/_debugbar/assets/javascript
+51.195.232.197
+0 4 1 90628 1 1655437981 0 0
+/
+64.78.149.164
+0 42 22 461735 11 1654696767 0 0
+/
+111.7.100.27
+0 1 1 22504 1 1654132842 0 0
+/
+3.120.247.59
+0 4 2 46173 1 1654605221 0 0
+/
+3.145.191.206
+0 4 2 46140 1 1654556992 0 0
+/
+45.129.18.58
+0 1 0 377 1 1655444945 0 0
+/
+51.255.62.8
+0 1 1 63007 1 1654849875 0 0
+/
+18.117.72.48
+0 4 2 46022 1 1654204714 0 0
+/
+152.39.227.97
+0 2 2 412984 1 1654455400 0 0
+/_debugbar/assets/stylesheets
+3.239.158.141
+0 8 6 827008 2 1654616913 0 0
+/_debugbar/assets/javascript
+205.210.31.145
+0 1 1 90180 1 1655613634 0 0
+/
+200.105.200.101
+0 20433 18544 2538759836 38 1655876900 0 0
+-
+198.235.24.3
+0 1 1 61830 1 1654267070 0 0
+/
+161.35.133.68
+0 2 1 64458 1 1654084443 0 0
+/
+45.129.18.233
+0 1 1 22777 1 1655444950 0 0
+/
+195.146.37.241
+0 2 2 45406 1 1654795681 0 0
+/
+3.15.45.207
+0 4 2 46158 1 1654434329 0 0
+/
+51.158.109.3
+0 1 1 90110 1 1655742767 0 0
+/
+205.210.31.17
+0 2 1 62739 1 1654462371 0 0
+/
+3.138.195.30
+0 4 2 46022 1 1654121892 0 0
+/
+34.209.138.152
+0 3 1 23512 1 1654358784 0 0
+/
+18.205.2.52
+0 2 1 24527 1 1655874443 0 0
+/
+34.215.145.223
+0 3 1 23489 1 1654556993 0 0
+/
+51.255.62.14
+0 1 0 396 1 1654849871 0 0
+/
+124.221.186.26
+0 3 2 45382 1 1654074415 0 0
+/
+54.244.73.36
+0 7 3 69644 2 1654696767 0 0
+/
+79.104.53.14
+0 1 1 22669 1 1654797451 0 0
+/
+35.237.4.214
+0 1 1 98081 1 1655840890 0 0
+/
+205.210.31.26
+0 1 0 377 1 1654847399 0 0
+/
+3.66.86.66
+0 4 2 46136 1 1654574556 0 0
+/
+8.218.136.43
+0 3 2 98118 1 1654235998 0 0
+/
+3.121.188.175
+0 4 2 46143 1 1654497199 0 0
+/
+176.53.221.60
+0 2 2 22887 1 1654890326 0 0
+/
+14.204.44.97
+0 1 1 22615 1 1654083985 0 0
+/
+51.255.62.6
+0 1 1 63069 1 1654849875 0 0
+/
+65.154.226.171
+0 6 5 803920 1 1654795625 0 0
+/_debugbar/assets/javascript
+198.235.24.137
+0 1 1 61918 1 1654672205 0 0
+/
+3.20.206.97
+0 4 2 46154 1 1654605221 0 0
+/
+3.124.187.251
+0 4 2 46159 1 1654556993 0 0
+/
+171.12.10.186
+0 2 2 28143 1 1654806376 0 0
+/
+124.227.31.120
+0 1 1 22568 1 1654132971 0 0
+/
+205.210.31.129
+0 1 1 62618 1 1654956078 0 0
+/
+190.129.124.5
+0 5 5 1096999 1 1655451050 0 0
+/_debugbar/assets/stylesheets
+# End Of Table - sites (monthly)
+# -sites- (daily)
+190.129.180.75
+0 11 10 815839 1 1655876576 0 0
+/
+82.145.215.206
+0 1 1 25602 1 1655860318 0 0
+/
+200.105.200.101
+0 2027 1870 206558216 4 1655876900 0 0
+-
+18.205.2.52
+0 2 1 24527 1 1655874443 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://ventazan.ga/.well-known/acme-challenge/BXXk-XBqIgf_7FmrVsymSfwM-tvyli3f3XVdPlNp2-k
+0 4
+http://ventazan.ga/.well-known/acme-challenge/o_V-uUZSYz9KTnQ-KUREzj5ZAv6r-eOa4W2Fqu8j9qc
+0 3
+http://www.ventazan.ga/.well-known/acme-challenge/bYcf1X7anAEmexf84csI9GeGOI4qEG6xiPhy9JeY0Lo
+0 4
+http://www.ventazan.ga/.well-known/acme-challenge/HATPKXRxzIi68SHUso4lBzuqHaDjBcvqNJlYUerqpYM
+0 4
+http://ventazan.ga/.well-known/acme-challenge/AzExg9t2zc0J0fdM2snPwJXo5tBVJ0czI2QCvZcFX3M
+0 4
+http://ventazan.ga/.well-known/acme-challenge/hOEXNuwAhz_vYQqM3dzoMsvzhgVhGTtGvF3CA_gIsKs
+0 4
+http://www.ventazan.ga/.well-known/acme-challenge/MD5ln1MQeu7QhxMGGSFy-uu96PexJod8FyVUG-llpyA
+0 4
+http://ventazan.ga/.well-known/acme-challenge/EphG5G7pGi_NN6t9dBzSH-GjoU_3jvf6H4lKZNIm5lg
+0 3
+http://www.ventazan.ga/.well-known/acme-challenge/EbPSmTbdDzj9LK6ySLB80TYMKDU9cEFVWNCf9u7IddE
+0 4
+http://www.ventazan.ga/.well-known/acme-challenge/ojaFgHmJE-wGDp1pYZN7ECNCWBgvan4501ES-UwKuAw
+0 3
+https://ventazan.ga/logout
+0 18
+https://ventazan.ga/crear_venta
+0 2275
+http://www.ventazan.ga/.well-known/acme-challenge/Gu2LFQHZKA7Qq-M7DMTJPhS8y6cBwTn2GDSb7qHsAys
+0 4
+http://ventazan.ga/.well-known/acme-challenge/RiyhKfAXZRtwJ6rnen1NqdG_aKrquFVeqK5brU3oYuc
+0 4
+http://ventazan.ga/.well-known/acme-challenge/kl0jgibQvp0VIgcpL67k704vT0D3mY9WC6N_kZsu-Cg
+0 2
+http://www.ventazan.ga/.well-known/acme-challenge/sk8LI6tumN3fW7AbPlQVkq2l0iKr2nIQKOOouYTReSQ
+0 4
+https://www.google.com/
+0 3
+- (Direct Request)
+0 3302
+https://ventazan.ga/admin/ciudades
+0 1502
+http://ventazan.ga/ads.txt
+0 1
+http://200.105.200.98:80/
+0 3
+http://ventazan.ga/.well-known/acme-challenge/LsYK-iF0X58PnKSO5yT3RbIZ6Uht08eHzA6i7hT_AHo
+0 3
+https://ventazan.ga/admin/categorias
+0 2094
+http://www.ventazan.ga/.well-known/acme-challenge/QXjLCiLym29WrI0owdkDQuNWyRrOkM4qmXMm-eAbY10
+0 3
+http://www.ventazan.ga/.well-known/acme-challenge/rZYNJPb7OSzHEDGgLBaKmaky3MrAhaqHl07-aWT1qAE
+0 3
+http://ventazan.ga/.well-known/acme-challenge/S07k1nt_WlqkjT4RBJgK0EA5CKvvb3vKEr1NHEOvVgg
+0 3
+https://ventazan.ga/css/app.css
+0 1043
+http://ventazan.ga/.well-known/acme-challenge/AbGcHTzsfa8H5ayZ28uyK_q8rV2m-YBoTY3WjYev6CM
+0 4
+http://ventazan.ga/.well-known/acme-challenge/ZPawUtu1CfH7BfaJ3s8k9kc3Sy9l7qloi-DKWIqJuFs
+0 4
+http://www.ventazan.ga/.well-known/acme-challenge/-JVn162oDvF3Egm0C8vbzL-WwBqL7JTe9Rc-erLnJa4
+0 2
+http://ventazan.ga/.well-known/acme-challenge/oFKc3ybZtMvqxBcqAVzo6akUeR9DzjItzRz8vxaoTdw
+0 3
+http://www.ventazan.ga
+1 1
+http://www.ventazan.ga/.well-known/acme-challenge/hMDLMfW787V2IikLuExc86v7ekM5JsQC2J0fQtEPnts
+0 2
+http://ventazan.ga/.well-known/acme-challenge/I6x9hLcXqRJVSSlRuQIyGI0dShzQwRsWduX59R77XTg
+0 2
+https://ventazan.ga/admin/usuarios
+0 1986
+http://www.ventazan.ga/.well-known/acme-challenge/yrzaCbkaN__A3kBwnG4GoQe1igVnC8XfL7DljuidF-s
+0 4
+http://ventazan.ga/.well-known/acme-challenge/Qd4h4EtC3tp_upL12kqJETm1_iBu5Z2ISQwaBTi1CQc
+0 4
+http://www.ventazan.ga/.well-known/acme-challenge/akaETryRiInIKzKmGbQPC9wg0vjAHiHHaQr41SkhVC8
+0 4
+http://www.ventazan.ga/.well-known/acme-challenge/P6E3xnVKkyT13Ip-m_zGat8zUd_ZhG0rLpfNwophoGo
+0 4
+https://ventazan.ga/login
+0 127
+http://ventazan.ga/.well-known/acme-challenge/RIRXDAtkQ9_SryqS70PYb9eX-u8H4-29CsNhRiiosL4
+0 4
+https://ventazan.ga/
+0 10041
+http://www.ventazan.ga/.well-known/acme-challenge/dD1kGAj0KKV2m_pdyp4gLNxRVpMy6Y_optODUX4qnRE
+0 4
+http://ventazan.ga/.well-known/acme-challenge/bsyGIASYOESmZQwp2MXZikPn6DXeUyzkXbJ2TirkYnQ
+0 3
+http://www.ventazan.ga/.well-known/acme-challenge/yv-7ncXq588IgSWPCUBlBbGfukWuWnVlLhC9V1z2ttk
+0 4
+http://ventazan.ga
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/95.0.4638.50 Mobile/15E
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+0 4
+Mozilla/5.081397758 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+0 15491
+fasthttp
+0 8
+Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 196
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 247
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 2.2; ja-jp; SC-02B Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safar
+0 4
+Mozilla/5.0 (Linux; Android 11; Redmi Note 9S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537
+0 61
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 6
+python-requests/2.23.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36
+0 2672
+Mozilla/5.064213590 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.99 Safari/537.36
+0 3443
+Go-http-client/1.1
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/99.0.4844.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 1
+python-requests/2.22.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 
+0 4
+Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 49
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Saf
+0 4
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.066704189 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safar
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+0 135
+Mozilla/5.0101097241 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Saf
+0 1
+Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 38
+Mozilla/5.077692140 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
